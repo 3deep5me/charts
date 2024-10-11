@@ -1,4 +1,8 @@
 # Changelog
+ test23
+## 19.2.0 (2024-10-11)
+
+*  [bitnami/contour] fixed wrong envoy-service-name arg value in contour when envoy service name is changed ([#29556](https://github.com/bitnami/charts/pull/29556))
 
 ## 19.1.0 (2024-10-10)
 
